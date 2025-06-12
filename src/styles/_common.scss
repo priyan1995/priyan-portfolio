@@ -1,1 +1,7 @@
-body{}
+/* Main dark blue gradient background */
+.simon-sparks-bg {
+  background: radial-gradient(ellipse at center, #1a2951 0%, #0f1a2e 50%, #0a0f1a 100%);
+  min-height: 100vh;
+  width: 100%;
+}
+
